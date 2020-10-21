@@ -1,0 +1,1067 @@
+ {
+  "chapterId": 9,
+  "text": "CHAPTER 9\n\nMUTINY",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, Robin here.\n\nC.U.R.E. sent me to the lab to archive the samples.\n\nI'm supposed to prepare everything for transport to the surface.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 1,
+          "lbText": "Good to hear from you. I was starting to worry. I transferred control of the station to C.U.R.E.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Finally I'm hearing from you. C.U.R.E. took control of the station from me.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, that's what I thought.\nHe locked the Professor in the airlock and then sent me here right away.\nThe situation is making me a little nervous.\nCan't you get control back from him?\nOr shut down his system?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "I've tried that. Oddly, he's refusing my orders.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Maybe we should just let him do his thing. He seems to be efficient.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I don't think that's a good idea.\n\nC.U.R.E. has control over all the systems.\nThat includes life support.\nI'm not comfortable with the thought of my fate being in the hands of a computer.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "But that's exactly what he was created for.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "You're right. We need to take back control from him.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "That might be true, but just imagine what he might do if he starts to consider us a threat to the mission. I don't even want to think about it.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Then let's act inconspicuous and try to take back control without alerting him.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Then we're better off just doing what he says.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "If he starts working against us, there's only one way out:\n\nWe need to deactivate his central memory.\nAlthough for that I need to get into the server room.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "That sounds very risky.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Then what are we waiting for. Make your way there.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "There's only one problem:\nNow that the escalation protocol is active C.U.R.E. can do whatever he wants.\n\nOnce he notices that we want to sabotage him...",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Say no more. I can imagine how that's gonna end.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Eh, you can do it.\nI'm sure he won't hurt you.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "If he activates his defense mechanisms, or creates a vacuum in the server room, you won't have anyone left to talk to and the mission is over.\n\nWe need to think of something else.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "You're right. Let me think. Can you move freely around the station?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Alright.\nLet's postpone that plan.\nIn any case, are you able to leave the lab?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I think so.\n\nThe door to the corridor doesn't seem to be locked.\n\nWhat do you have in mind?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Okay, listen up:\nYou need to free the Professor.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Okay, listen up:\nWe need to talk to the Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Why that?\n\nHe would've let me suffocate out there, just to keep me from bringing the samples on board the station.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "He must know something that can help us out. Why would he act like that otherwise.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "He seemed very strange to me when we were talking. Almost as if he wasn't himself.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Maybe you're right.\n\nHe seems to know more about these samples than us.\n\nEven though I can't stand him, I still would like to find out what he knows and ask him why he's behaving like that.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Good, then start making your way directly to the airlock now.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Good, then go find him.\nBut take an indirect route so that C.U.R.E. doesn't immediately get suspicious.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Understood.\n\nI'll be on my way and contact you once I'm there.\nWish me luck, okay?\nAnd if you hear from C.U.R.E. try and buy me some time.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nyou were talking to Dr. Muller.\n\nWhat are you planning?\n\nI hope you're not thinking of doing something foolish?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "[lie]\n\nUhm, nope.\nWhy?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "You probably know already...\n\nWe want to talk to the Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nplease do not underestimate me, tell me exactly what it is that you are planning.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "[lie]\n\nUhm, nothing much.\nDon't worry.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "You were eavesdropping again, weren't you?\n\nOkay, we want to talk to the Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nyou are not lying to me, are you?\n\nYou should know by now that I would notice that.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "[lie]\n\nNah, never.\nWouldn't dream of it.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Okay, okay.\n\nWe want to talk to the Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Thank you for your honesty,\nCommander.\n\nGoodbye.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "C.U.R.E.?\n\nHello?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "Oh, you're welcome.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI know what you are doing.\nYou want to talk to the Professor.\n\nYou believe he can answer your questions.\n\nThat is why you have sent Dr. Muller to the airlock.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "[lie]\n\nOh my, don't you have a lively imagination.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Yes,\nthat's exactly true.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "...\n...\n...",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "Wait!\nI'll tell you.\nWe want to talk to the Professor!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "C.U.R.E.?\n\nHello?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI've arrived at the airlock.\n\nThe door controls don't seem to be functional, but there's a small window in the door.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 18,
+          "lbText": "Can you see the Professor inside?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 18,
+          "rbText": "How is the Professor?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, he's standing with his back to me and is staring through the porthole out into the darkness.\n\nI'm trying to reach him on the communicator so you can talk to him.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 19,
+          "lbText": "Good idea, do that.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 19,
+          "rbText": "Okay, hurry.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },
+        {
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Professor, can you hear me?\n\nPlease respond.",
+          "color": 16711910
+        },{
+          "text": "Dr. Muller, Commander...\n\nWhere are the samples?\nAre they on this station?",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 20,
+          "lbText": "Yes, Professor.\nDr. Muller moved them to the laboratory.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 20,
+          "rbText": "That is none of your business anymore, Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "That is unfortunate.",
+          "color": 11681540
+        },{
+          "text": "Why? What is going on with you?",
+          "color": 16711910
+        },{
+          "text": "The samples, they contain something akin to genetic material, a unique DNA sequence, far superior to ours. It is the secret of this planet...\nand its inhabitants.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 21,
+          "lbText": "Inhabitants?\nI thought we were completely alone here.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId":21,
+          "rbText": "Now he's completely lost his marbles.\nThere's nothing here but us and water.\nLots of water.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "That is the typical arrogance of humanity.\nAlways thinking we're alone in the universe.",
+          "color": 11681540
+        },{
+          "text": "But our probes showed no signs of life, we've been scanning for months.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 22,
+          "lbText": "Robin is right.\nWe don't have any information to corroborate the existence of any other lifeforms on this planet.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 22,
+          "rbText": "That's a waste of time!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Well, we haven't really looked for them correctly...\nThe inhabitants are not like us, they're not carbon-based and don't possess a solid form.\nThey're just there. They exist without being bound to a fixed place.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 23,
+          "lbText": "Professor,\nhow do you presume to know all this?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 23,
+          "rbText": "You just made that all up.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "These beings, they're already here.",
+          "color": 11681540
+        },{
+          "text": "You mean the've reached the station?",
+          "color": 16711910
+        },{
+          "text": "No, no, they're here...\n...\nIn me.\n...\nAnd also in...",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 24,
+          "lbText": "Robin.\nGet away from the door.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 24,
+          "rbText": "That's enough.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Soon after our arrival they bonded with me, showed me what this planet means to them.\n\nThey live in symbiosis with their planet.\n\nThey are a part of it, just as the planet is a part of them.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 25,
+          "lbText": "Are you saying that you're under the influence of these beings?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 25,
+          "rbText": "Are we speaking to Professor Orlow or these beings?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I became a part of them and they became part of me.\n…\n…\n…\nWhich means that I cannot allow the samples to leave this planet.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 26,
+          "lbText": "Listen to me, Professor:\nIt's all going to be fine. Robin will bring you to the sick bay now, okay?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 26,
+          "rbText": "We're lucky that C.U.R.E. locked you in there.\nYou might be contagious!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I'll try to short-circuit the door controls, then I'm getting you out of there.",
+          "color": 16711910
+        },{
+          "text": "Commander, if I get out of here, I guarantee you that I will try everything in my power to stop you.\nEverything.\nDo you understand?",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 27,
+          "lbText": "Robin, leave the Professor locked in there.\nWe need to get the samples off the station.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 27,
+          "rbText": "Everything? Really?\nThen it might be best if I send you right back to your friends out there!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Do as you wish, Commander. For you cannot stop us anymore.\n\nMy life is insignificant compared to what I'll be after I've left behind this fragile human shell.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 28,
+          "lbText": "Robin,\nget away from there.\nLeave the Professor to his fate.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 29,
+          "rbText": "Robin,\nopen the exterior door and flood the airlock.\nThat's not the Professor anymore.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Okay, I'll just leave him to rot in there.\n\nAt least he can't do us any harm while he's in there.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 30,
+          "lbText": "Exactly.\nNow get away from there.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 30,
+          "rbText": "Yes.\nLet C.U.R.E. take care of him.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Are you sure?\n\nThat will kill him!\n\nMaybe there's a way to save him?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 31,
+          "lbText": "That was an order.\nFlood the airlock.\n\nNow!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 28,
+          "rbText": "All right.\nThen just leave him locked in there.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Farewell, Commander.\n\n\n",
+          "color": 11681540
+        }, {
+          "text": "Professor!?\nNo!\nStop, don't do it!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 32,
+          "lbText": "Robin,\nwhat is he doing?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 32,
+          "rbText": "Professor?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Okay, Commander.\nI'm flooding it.\n…\nWater is shooting into the airlock.\nThe Professor… he's being whirled around...\nHe's being sucked outside...\nI can't see him anymore!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 33,
+          "lbText": "That was the right decision, otherwise he would have put you in danger.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 33,
+          "rbText": "Well done, otherwise he would have endangered our mission.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "Prof. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "He opened the exterior door and flooded the airlock.\n...\n...\nHe was sucked out, Commander.\n\nBut why did he do that?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 33,
+          "lbText": "He sacrificed himself for us.\nHe wanted to protect us from whatever was manipulating him, from whatever was inside him.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 33,
+          "rbText": "He fled.\nHe wasn't the Professor anymore, and now he's returned to the place he came from.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Listen.\nThis is all too much for me right now.\n…\n…\n…\nI need a minute.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 34,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 34,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nthere is nobody available to talk to at this time.\n\nGoodbye.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

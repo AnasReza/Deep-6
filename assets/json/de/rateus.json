@@ -1,0 +1,32 @@
+{
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich wurde programmiert regelmäßig Feedback zu meiner Benutzerfreundlichkeit einzuholen.\n\nIhre Bewertung hilft bei der kontinuierlichen Verbesserung meiner Subroutinen.\n\nMöchten Sie Ihre Bewertung jetzt abgeben?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Ja, gerne.\n[App bewerten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Jetzt nicht.\nVielleicht ein anderes Mal.",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

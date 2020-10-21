@@ -1,0 +1,28 @@
+{
+  "index": [
+    {
+      "text": "P R O L O G U E\n\nWelcome to \"Deep 6\".\n\nThis game is a text-adventure happening in real-time. You will have to communicate with various characters to fulfill your mission.\n\nYou will make decisions which will influence the course of the game and its story.",
+      "button": "Continue"
+    },
+    {
+      "text": "Your Mission:\n\nDown on the ocean floor, at over 2000 meters depth, a crew of scientists reside in a research station called \"Deep 6\".\n\nTheir task:\n\nDiscover alternative and renewable energy sources.",
+      "button": "Continue"
+    },
+    {
+      "text": "You are the Commander in charge of this mission, and will be overseeing the progress on the station remotely.\nYour only means of contact with your team is this communicator.\n\nThe scientists will regularly contact you in the coming hours to update you on the progress of the mission, as well as inform you about all important events.\n\nIf you activate push notifications for this game you will be notified right away as new events unfold.",
+      "button": "Continue"
+    },
+    {
+      "text": "As Commander you might have to make tough decisions.\n\nAlways keep in mind that your decisions cannot be reversed, and that the success of the mission - and possibly the life of your crew members - might depend on your judgement.",
+      "button": "Continue"
+    },
+    {
+      "text": "The station is equipped with a highly advanced artificial intelligence named:\n\nCybernetic Universal Reactive Entity\n\nIn short: C.U.R.E.\n\nC.U.R.E. was developed to ensure the safety and well-being of the crew members during fieldwork.\n\nIts prime directive however, is to ensure the success of the mission.",
+      "button": "Continue"
+    },
+    {
+      "text": "Now take a look at the personality profiles of your crew.\n\nYou will find important information about them, as well as details which could be of significance to your mission.\n\nYou can also look at the profiles at a later time by simply tapping on their profile pictures in your communicator.",
+      "button": "To the profiles"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "lang":"de",
+  "continueStr": "Fortsetzen",
+  "about":"Über uns",
+  "new_game":"Neues Spiel",
+  "exit":"Schließen",
+  "dialog_msg":"Neues Spiel starten? Spielfortschritt wird überschrieben.",
+  "yesStr":"Ja",
+  "noStr":"Nein",
+
+  "profile_heading":"Tippe auf die Profile für weitere Informationen",
+  "profile_next":"Zum Kommunikator",
+  "profile_close":"Profil schließen",
+
+  "scanner_heading":"Aktiviere jetzt den\nKommunikator.\nDie Crew kann dann eine Verbindung zu dir herstellen.",
+  "scan_text":"Bitte hier Daumenabdruck scannen",
+
+  "notification_message":"Kommunikator ist online. Sie können jetzt fortfahren.",
+
+  "iap_message":"Danke, dass du die kostenlose Version von Deep 6 bis hierhin gespielt hast.\n\nWenn dir das Abenteuer gefallen hat, kannst du jetzt die Vollversion erwerben und alle 14 Kapitel freischalten.",
+  "iap_btn_cancel":"Nein Danke",
+  "iap_btn_buy":"Vollversion Kaufen",
+
+  "rate_us": "Rate Us",
+
+  "chapter_1":"KAPITEL 1\n\nDR. ROBIN MULLER",
+  "chapter_2":"KAPITEL 2\n\nDER PROFESSOR",
+  "chapter_3":"KAPITEL 3\n\nDIE EINSATZBESPRECHUNG",
+  "chapter_4":"KAPITEL 4\n\nDER AUSSENEINSATZ",
+  "chapter_5":"KAPITEL 5\n\nDER GRABEN",
+  "chapter_6":"KAPITEL 6\n\nSTERNE IN DER TIEFE",
+  "chapter_7":"KAPITEL 7\n\nVERRAT",
+  "chapter_8":"KAPITEL 8\n\nESKALATION",
+  "chapter_9":"KAPITEL 9\n\nMEUTEREI",
+  "chapter_10":"KAPITEL 10\n\nKALKULATIONEN",
+  "chapter_11":"KAPITEL 11\n\nWAHRHEIT",
+  "chapter_12":"KAPITEL 12\n\nDER PLAN",
+  "chapter_13":"KAPITEL 13\n\nIN DER FALLE",
+  "chapter_14":"KAPITEL 14\n\nVERMÄCHTNIS"
+}

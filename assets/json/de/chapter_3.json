@@ -1,0 +1,564 @@
+{
+  "chapterId": 3,
+  "text": "KAPITEL 3\n\nDIE EINSATZBESPRECHUNG",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\ndie Crew ist nun bereit für die Einsatzbesprechung.\n\nSoll ich einen Kanal öffnen und die Verbindung herstellen?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Ja,\nöffne einen Kanal ",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Jetzt noch nicht,\nich werde die\nEinsatzbesprechung\nspäter durchführen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich muss Sie daran erinnern, dass der Faktor Zeit hier eine wichtige Rolle spielt.\n\nDie Mission erlaubt keine weiteren Verzögerungen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Ja, das verstehe ich.\nDann führe ich die\nEinsatzbesprechung\nhalt jetzt durch.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Du setzt mich hier\nziemlich unter Druck.\nAber wenn es unbedingt\njetzt sein muss...",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nhier spricht Professor Jurij Orlow.\nWir sind bereit für die Einsatzbesprechung.",
+          "color": 11681540
+        },
+        {
+          "text": "Hallo Commander,\nhier ist Robin. Ich habe schonmal begonnen alles für einen zweiten Außeneinsatz vorzubereiten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Hallo Professor.\nBitte fangen Sie an.\nWas gibt es Ihrer \nMeinung\nnach zu beachten?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Hallo Robin.\nDas klingt sehr gut.\nWie wird die Mission\nablaufen?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich möchte nochmal betonen, dass ich kein gutes Gefühl dabei habe, einen weiteren Außeneinsatz durchzuführen. \n\nIch halte es für ein unkalkulierbares Risiko und Sie setzen uns damit unnötigen Gefahren aus!",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Ihre Bedenken\nsind nachvollziehbar.\nAber es muss sein.\nOhne die Proben haben\nwir nicht genug Daten\ndie Mission erfolgreich\nabzuschließen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Ihren Einwand\nhabe ich zur\nKenntnis genommen,\nProfessor.\nRobin, was ist deine\nMeinung dazu?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ok, die Situation ist Folgende:\nDas Tauchshuttle ist startklar. \nDie Treibstofftanks sind gefüllt, alle System wurden von mir persönlich nochmal durchgecheckt und wir sollten keine Schwierigkeiten haben mit Hilfe der Navigationsdaten weitere Proben bei der Ausgrabungsstelle zu finden.\n",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "Das klingt nach einem\nguten Plan.\nSo sollte alles\nreibungslos\nfunktionieren.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Professor,\nhaben Sie noch\netwas hinzuzufügen?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, dies wird nur reibungslos funktionieren, wenn wir uns strickt an die vorgegebene Route halten und...",
+          "color": 11681540
+        },
+        {
+          "text": "Ja, das ist schon klar.\nJetzt seien Sie doch nicht so übervorsichtig, Professor!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Robin, lass ihn\nausreden.\n\nSprechen Sie weiter,\nProfessor.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Professor,\nRobin hat den Einsatz\ngut geplant.\nSeien Sie nicht so\npessimistisch.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Jede Abweichung oder Planänderung könnte die Mission und unser Leben gefährden.\nBeim letzten Einsatz haben wir fast das Tauchshuttle verloren.",
+          "color": 11681540
+        },
+        {
+          "text": "Das war aber nicht meine Schuld, dass das Hauptruder eine Fehlfunktion hatte! \nUnd den genauen Grund dafür kennen wir nicht.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Robin,\ndu wirst das Shuttle\nvor dem Einsatz nochmal\nkomplett durchchecken.\nEs darf keine weiteren\nZwischenfälle geben.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Keine Sorge Professor.\nDieses Mal wird es\nkeine Probleme geben.\nDas wird schon\nfunktionieren.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Also damit bin ich nicht einverstanden.\nAber Sie sind nun mal der Commander...",
+          "color": 11681540
+        },
+        {
+          "text": "Genau, Professor.\nER ist der Commander und ER gibt die Anweisungen!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Das wollte ich hören,\nRobin.\nUnd jetzt los!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Keine weitere\nDiskussion,\nProfessor.\nAn die Arbeit!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Zu Befehl, Commander.\n\nBleibt somit nur noch die Entscheidung, wer dieses Mal den Außeneinsatz durchführt.\nSoll ich wieder das Shuttle steuern oder soll dieses Mal der Professor die Mission durchführen?\n\nDeine Entscheidung.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Robin, \ndu fährst im Shuttle\nzur Ausgrabungsstelle.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Professor Orlow,\nSie werden\nim Shuttle zur\nAusgrabungsstelle\nfahren.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Oh, nein nein nein. \nDas können Sie nicht von mir verlangen. \nDafür bin ich nicht ausgebildet.",
+          "color": 11681540
+        },
+        {
+          "text": "Dann lass mich fahren.\nIch habe bereits einen Einsatz durchgeführt und kenne mich \ndort draußen aus.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Na gut, Robin.\nDu hast mich überzeugt.\nDu kannst den\nAußeneinsatz\ndurchführen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Professor,\ndas grenzt an\nBefehlsverweigerung!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Stellen Sie mich meinetwegen vor ein Kriegsgericht oder melden Sie mich der Missionskontrolle. \n\nIch fahre dort nicht raus.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Das wird\nein Nachspiel für Sie\nhaben, Professor.\n\nRobin, dann musst du\ndas übernehmen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Schon gut,\nhier wird niemand vor\nein Kriegsgericht \ngestellt.\nRobin, du\nübernimmst den Einsatz.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Alles klar.\nDann bereit ich mich vor und melde mich wieder, wenn ich auf dem Weg zum Tauchshuttle bin.\n\nOver and Out.",
+          "color": 16711910
+        },
+        {
+          "text": "Over and Out, Commander.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Dann bis später,\nRobin.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "Ok, aber beeil dich.\nWir haben bereits\nzu viel Zeit mit \nReden verloren.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, \nich habe die Einsatzbesprechung verfolgt und ausgewertet.\n\nIhre Entscheidungen waren...\n…\n...\ninteressant.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Ach ja?\nDann sag ich mal...\ndanke?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Wenn mich deine\nMeinung dazu\ninteressiert, dann\nfrage ich dich!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Sie brauchen mir nicht zu danken, Commander.\nIch bin nur eine rational denkende Maschine.\nMeine Programmierung verlangt eine Evaluation der Situation und der beteiligten Personen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Ja, das weiß ich.\nInformiere mich einfach,\nsobald Dr. Muller\nbereit ist den Einsatz\nzu starten.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Was auch immer.\nGib mir jetzt ein wenig\nZeit. Ich muss mir das \nalles mal durch den Kopf\ngehen lassen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Verzeihung, Commander.\n\nIch wollte nicht...\n…\n...\nIhre Gefühle verletzen.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Äh, was?\n\nInformiere mich einfach,\nsobald Dr. Muller\nbereit ist den Einsatz\nzu starten.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Keine Sorge.\nMir geht es gut.\n\nGib mir jetzt ein wenig\nZeit. Ich muss mir das \nalles mal durch den Kopf\ngehen lassen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Das werde ich tun, Commander.\n\nBis später.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nDr. Muller ist noch mit weiteren Vorbereitungen beschäftigt und noch nicht im Shuttle Dock angekommen.\n\nIch melde mich bei Ihnen, sobald sie bereit ist.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

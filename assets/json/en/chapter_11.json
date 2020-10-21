@@ -1,0 +1,538 @@
+ {
+  "chapterId": 11,
+  "text": "CHAPTER 11\n\nTRUTH",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, do you read me.\n\nI have opened a safe channel so that C.U.R.E. can't listen in on us.\n\nI need your help.\n\nAre you there?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Yes, Robin.\nI'm here.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Give me a moment.\nI need to take care of something.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nthis is really not a good time to avoid me.\n\nI've discovered something that we need to talk about.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "I'm sorry.\nWhat is it?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Oh, boy.\nWhat is so important that it can't wait a minute?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I don't think I'll get out of here alive.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Why do you say that?\nC.U.R.E. ordered a transporter to bring you and the samples to the surface.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Nonsense. Of course you'll get out of there alive. Mission control is sending a transporter.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, I saw that on the radar.\n\nA class \"Arrow 6\" transporter is approaching.\n\nIt's already left the planet's orbit and is entering the atmosphere.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Isn't that good news?\nWhat's the problem?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "They always come up with such cool names: \"Arrow 6\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I hacked into the mission control log-files earlier.\n\n\"Arrow 6\" is a military transport craft.\n\nThey're carrying a six-man special forces team in full combat gear.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "They probably just want to be on the safe side after all that's happened.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "You can hack the mission control systems?\nYou're full of surprises.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "That's not standard procedure for a rescue mission if you ask me.\n\nThat's quite a lot of firepower just to pick up a molecular biologist and a couple rocks.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "No need to be afraid.\nThey're only there for your protection.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "I think you're right.\nThat's very unusual.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I've found out something else:\n\nIt appears that mission control knew from the start that this wouldn't be a regular mission...\n\nI have found records that go back several years.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "You seem to be onto something.\n\nKeep talking.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "They could put you behind bars for many years for this.\nAre you sure you should be reading all that?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I'm aware of that.\n\nBut there's something seriously suspicious going on here and we need to bring the truth to light.\n\nDon't you understand?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "Okay, keep reading then.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Do I really want to know?\nI'm the Commander of this mission after all.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Not yet.\nThere's more.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Which part of:\n\"Turn it off\" didn't you get?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "I don't want to hear about it anymore.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Listen. I'll read on.\n\nIt seems that we're not the first crew on this station.\n\nThere were three other missions before this one, they've all ended in disaster.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Why doesn't anybody know about this?\nWe were told this was the first mission on this planet.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Damn it, Robin.\nTurn it off!\nThey'll be able to tell that you've hacked the logs.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "It gets even worse.\n\nIt seems that there have been no survivors.\nAll previous crew members are marked M.I.A., missing in action.\nCommander, they're responsible for the deaths of several people, and it's all being covered up!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "There must be an explanation for that.\n\nI can't believe this.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Those damn bastards!\nThey'll pay for that!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "It's all here in the log-files.\n\nThey even knew that there are lifeforms down here with the ability to take over human hosts.\n\nThat is why C.U.R.E. was deployed for this mission!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Why that?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "That means C.U.R.E. wasn't part of the crew during the first few missions, and not yet integrated in the station?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "C.U.R.E. is a computer program.\nAn artificial intelligence.\n\nThey probably thought that he can't be influenced like us, that this way the mission would finally be a success.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Well, didn't that work out swimmingly.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 13,
+          "rbText": "Credit where credit's due.\nC.U.R.E. definitely contributed to the success of the mission.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Unfortunately they seem to have overshot their mark when developing him.\n\nWhile C.U.R.E. seems resistant to the influence of these beings, he's now taking his mission a little bit too seriously.\n\nHe's a danger to us now.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 14,
+          "lbText": "Agreed,\nuntil we manage to reset his system we need to be extremely cautious.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "No,\nhe's our only hope.\nWe just have to find a way to bring him over to our side.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "So it seems we're dealing with some very mysterious extraterrestials and a defective artificial intelligence.\nIn addition to that, there's a transporter on it's way carrying half a dozen heavily armed grunts ready to put a bullet in my head.\nI'm starting to think I'm a magnet for trouble...",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "But C.U.R.E. needs you to get the samples to the surface. He won't harm you.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "You need to convince the special forces unit that C.U.R.E. is a threat.\nThen they'll get you out of there.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Right now you're the only one I can trust, Commander.\n\nWe just need a damn good plan to get me out of here alive!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "Okay,\nI'm working on it.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Okay,\nyou try and think of something.\nI'll be waiting.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Understood.\n\nI'll get back to you later.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nthere is nobody available to talk to at this time.\n\nGoodbye.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

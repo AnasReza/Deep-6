@@ -1,0 +1,25 @@
+{
+  "profile": [
+    {
+      "character": "C.U.R.E.",
+      "leftBio":"Serial Number:\nVersion:\n",
+      "rightBio":"54W43ZN35UO219QKD\n0.92\n",
+      "text": "The government project \"Cybernetic Universal Reactive Entity\" came to life in an effort to increase the success rate of field research. The purpose of C.U.R.E. is to circumvent flaws in human decision making. Though government-funded, the project was developed by private contractors.\nCritics consider its use to be highly questionable, citing the immature stage of the technology. C.U.R.E. has been deployed to over 50 missions.\nHis success rate has been 100 percent.",
+      "color": 6860244
+    },
+    {
+      "character": "Dr. Robin Muller",
+      "leftBio":"Age:\nGender:\nNationality:\nOccupation:\nSpecialty:\n",
+      "rightBio":"37\nFemale\nUS American\nMolecular biologist\nDeep-sea research\n",
+      "text": "Dr. Robin Muller graduated from Harvard University in Massachusetts, USA. This is her first major mission aboard a deep-sea station.\nDr. Muller and the Commander have known each other since college, and have been friends for many years. Together, they have successfully completed several missions. It has been only a few weeks since Dr. Muller was transferred to the research station \"Deep 6\".",
+      "color": 16711910
+    },
+    {
+      "character": "Prof. Jurij Orlow",
+      "leftBio":"Age:\nGender:\nNationality:\nOccupation:\nSpecialty:\n",
+      "rightBio":"53\nMale\nRussian\nAstrophysicist\n***confidential***\n",
+      "text": "Professor Jurij Orlow acted as lecturer and consultant at the Russian Academy of Science (RAS) in Moscow.\nHe has accompanied several expeditions and is considered a genius in his field. He has been on the research station for several months already and is a reliable team member.",
+      "color": 11681540
+    }
+  ]
+}

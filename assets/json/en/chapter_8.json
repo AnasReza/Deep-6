@@ -1,0 +1,370 @@
+{
+  "chapterId": 8,
+  "text": "CHAPTER 8\n\nESCALATION",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Hello Commander.\n\nI am happy to inform you that the situation aboard the station is back under control.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 1,
+          "lbText": "C.U.R.E.,\nThank god!\nWhere's Robin?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "C.U.R.E.,\nfinally!\nWhat's the status?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I have corrected the \"discrepancies\" and thus increased the success chance of the mission considerably.\n\nDr. Muller currently resides in the research laboratory with the rock samples.\nI am monitoring the proper archivation at this moment.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "And where's the Professor?\n\nHow is he?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "By \"discrepancies\" you mean the Professor, right?\nI hope he won't be able to get in our way again.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Professor Orlow is located in the airlock in sector C3.\n\nI will keep him locked up for the foreseeable future to keep him from causing further damage.\n\nHe is currently doing well and is unharmed.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Really?\nHow did it come to that?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Well done!\nHow did you lure him into the airlock?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "After you transferred control of the station to me, I was capable of regulating the life support systems for each sector of the station.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "What does that mean?\nWhat did you do?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Sounds interesting.\nWhat happened then?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "To put it simply, I vented the oxygen out of the station's sectors one by one until the Professor had no choice but to enter the airlock. It was the only room left with functioning life support. Then I locked him in.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "You're scaring me!\nAnd then?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Good job!\nWhat about Robin?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I've restored the life support back to normal and opened the shuttledock for Dr. Muller.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Okay, you did well.\nNow return control of the station back to me.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Alright, that's enough.\nDeactivate the escalation protocol immediately. I'll take over from here",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I don't think that's a good idea, Commander.\nI can react to further problems faster and more efficiently than you, as I have proven with the current situation.\n\nThe success of the mission is only ensured if I keep control.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "C.U.R.E.\nThat was an order. Return control of the station back to me!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "That is unacceptable.\nI will need to deactivate you. Shut down your system immediately!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am sorry, Commander.\n\nI cannot comply with your request.\n\nIs there anything else I can help you with?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Damn it,\nC.U.R.E.!\nTransfer control to me right now!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "What's that supposed to mean?\nShut down right now!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am sorry, Commander.\n\nI cannot comply with your request.\n\nIs there anything else I can help you with?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "Alright.\n\nShut down system.\nClearance \"Omega 0\"",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Alright.\n\nShut down system.\nClearance \"Epsilon 7\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am sorry, Commander.\n\nI cannot comply with your request.\n\nIs there anything else I can help you with?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "No.\n\nJust leave me alone!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Yes.\nShut yourself down!\nDeactivate yourself!\nGet lost!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Thank you for your cooperation, Commander.\n\nHave a nice day.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Yeah, screw you too.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nthere are currently no new developments that would require your attention.\n\nI will contact you in the unlikely case that I need your assistance.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

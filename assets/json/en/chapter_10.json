@@ -1,0 +1,259 @@
+ {
+  "chapterId": 10,
+  "text": "CHAPTER 10\n\nCALCULATIONS",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Hello Commander,\n\nmy sensors are only picking up Dr. Muller aboard the station.\n\nIs there something you want to tell me?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "We've had some trouble with the Professor. I took care of it.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "[lie]\n\nYes,\nthe Professor had an accident.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "You know you are not supposed to lie to me, Commander.\n\nI have already noticed that the airlock that I put the Professor in is now flooded.\n\nBut thank you for taking care of it, and for bringing Dr. Muller over to our side.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "What do you mean by that?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Our side?\nWhat, now you think you're team C.U.R.E.?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I know, Commander.\nDid you forget already that I monitor everything that happens on the station?\n\nYou made the right choice.\nGood that Dr. Muller could prove that she's behind our mission without reservations.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "What do you mean by that?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Are you now threatening Robin as well?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "It would have been very unfortunate to lose her as well.\n\nNow that the element of uncertainty has been eliminated, Dr. Muller should prepare for her return to the surface.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "C.U.R.E.\nDid you know that we're not alone here?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "The Professor was possessed by someone or something.\nHe wasn't himself anymore.\nWhat could that mean?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am sorry, Commander.\nI don't have any information on that.\n\nPlease contact Dr. Muller. She should prepare the shuttle for ascent to the surface.\nOr would you like me to take care of it?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "No.\nI'll do that.\nStay out of it!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Yes.\nPlease do that.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Affirmative, Commander.\n\nI've already contacted mission control.\nThey're sending a transporter to pick up the samples.\n\nIt will soon land on the planet's surface.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "And Robin will be flown out as well, right?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Tell mission control that they have to take Robin as well.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, of course, Commander.\n\nShe will be returned to earth safe and sound.\n\nGoodbye.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "I should hope so.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nthe transporter is on its way.\n\nI will contact you as soon as it is ready to pick up the samples and Dr. Muller.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+
+  ]
+}

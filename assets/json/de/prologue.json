@@ -1,0 +1,28 @@
+{
+  "index": [
+    {
+      "text": "P R O L O G\n\nWillkommen bei \"Deep 6\".\n\nDieses Spiel ist ein Text-Adventure, welches in Echtzeit abläuft und bei dem du mit verschiedenen Personen kommunizierst um eine Mission zu erfüllen.\n\nDu wirst dabei Entscheidungen treffen, die den Spielverlauf und die Geschichte beeinflussen werden.",
+      "button": "Weiter"
+    },
+    {
+      "text": "Deine Mission:\n\nEin Team von Wissenschaftlern befindet sich auf dem Meeresgrund in über 2.000 Meter Tiefe in einer Forschungsstation namens \"Deep 6\".\n\nDie Aufgabe der Wissenschaftler:\n\nSuche nach alternativen und nachhaltigen Energiequellen.",
+      "button": "Weiter"
+    },
+    {
+      "text": "Du bist der Commander dieser Mission und befindest dich außer Reichweite der Station.\nDie einzige Verbindung zu Deinem Team besteht über diesen Kommunikator.\n\nDie Wissenschaftler werden sich in den nächsten Stunden regelmäßig bei dir melden und dich über den Missionsfortschritt und die aktuellen Ereignisse informieren.\n\nWenn du die Push-Benachrichtigung für das Spiel aktiviert hast, bekommst du sofort eine Meldung, wenn es neue Ereignisse gibt.",
+      "button": "Weiter"
+    },
+    {
+      "text": "Als Commander musst du eventuell schwierige Entscheidungen treffen.\n\nDenke dabei immer daran, dass deine Entscheidungen nicht rückgängig gemacht werden können und der Erfolg dieser Mission und eventuell das Überleben der Crewmitglieder davon abhängen.",
+      "button": "Weiter"
+    },
+    {
+      "text": "Die Station verfügt außerdem über eine hochentwickelte künstliche Intelligenz mit der Bezeichnung:\n\nCybernetic Universal Reactive Entity\n\nkurz: C.U.R.E.\n\nC.U.R.E. wurde entwickelt, die Sicherheit und das Wohlbefinden der Crewmitglieder in Außeneinsätzen sicherzustellen.\n\nIhre oberste Devise ist es jedoch, den Erfolg der Mission zu gewährleisten.",
+      "button": "Weiter"
+    },
+    {
+      "text": "Schau dir nun die Persönlichkeitsprofile der Crew an.\n\nDort findest Du wichtige Informationen über sie, sowie weitere Details, die für die Mission wichtig sein könnten.\n\nDu kannst auch später jederzeit auf die Profile zugreifen. Klicke dafür einfach auf die Profilbilder in deinem Kommunikator.",
+      "button": "Zu den Profilen"
+    }
+  ]
+}

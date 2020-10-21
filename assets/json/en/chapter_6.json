@@ -1,0 +1,986 @@
+{
+  "chapterId": 6,
+  "text": "CHAPTER 6\n\nSTARS IN THE ABYSS",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI have found something.\n\nIt's the shuttle.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Try and contact Robin, quick!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Good to know. Try to establish a connection and contact me if it worked.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nI have already established a connection to the shuttle.\n\nYou can talk to Dr. Muller right away.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Very good, thanks.\n\nRobin, how are you?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "I guess you're not big on losing time.\n\nRobin, do you read me?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Hello, Commander.\nI am fine, but more importantly:\nIt worked.\nThe explosion ripped me out of the current and I was able to navigate over the trench.\n\nBut the shuttle is in bad condition.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Give me a status update on the shuttle.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Thank god you're fine. What's the situation down there?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Fuel reserves are at 20 percent.\n\nThe storage room is flooding, but I was able to seal off that section.\n\nOxygen and life support:\n...\nAre at zero percent.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Okay, don't panic. We can handle this.\nC.U.R.E., does she have enough fuel reserves to make her way back?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Well, that doesn't sound good. I think this means the end for our mission. C.U.R.E., she needs to return to the station immediately.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, Commander.\n\nIf she engages the autopilot to immediately return to the station, the fuel reserves should be enough to at least get the shuttle back.\nThis way the mission would not be a total failure.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Only the shuttle?\n\nNot a total failure?\n\nWhat about Robin?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Can't she somehow fix the shuttle enough to make it to the excavation site?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I do not see any other options to complete the mission successfully at this point.\n\nDr. Muller should try to get the shuttle back to base.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Why do you keep talking about only saving the shuttle?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "So Robin's fate is sealed?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, as Dr. Muller already said, her entire oxygen reserves have been destroyed in the explosion.\n\nShe has ten minutes at most until she loses consciousness and suffocates, that is not nearly enough to reach the station.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "C.U.R.E.\nThat cannot happen!\nAny alternatives?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "I understand.\nShe's supposed to save the shuttle so that we can give it another try later.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am sorry, Commander.\n\nThis outcome is unavoidable.\n\nThe success of the mission is our first priority.\n\nDr. Muller is only collateral damage.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "I will not let that happen!\n\nRobin, are you there?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Hm,\nif we're able to get the shuttle back to the station and do some repairs, the Professor could give it another try.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI heard C.U.R.E.\n\nDon't even think for a moment that I'm giving up without a fight!\n\nYou two need to come up with something! Right. Now.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "Listen, I have a pretty brilliant idea.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Okay, okay.\nNow this might be a stupid idea, but you could do the following.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I'm all ears.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Doesn't the shuttle have a set of diving equipment on board?\nCould you check that please.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "You need to find the shuttle's diving equipment.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes, I have four complete sets of diving equipment on board.\n\nAre you suggesting I swim back to the station?\nTHAT is your idea?\n\nYou do know how deep we are and how cold the water is here, right?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "No, of course you're not supposed to swim back.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Well, I was considering it.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I think I know what you're thinking.\n\nIf I bring the oxygen tanks from the diving equipment into the cockpit, and connect them to the life support, I will easily be able to make it back to the station.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Uhm,\nyeah sure, that was exactly my plan.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "And you're sure you don't want to swim back?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Don't be ridiculous!\n\nI wouldn't make it a hundred meters.\n\nSometimes I really feel like you don't care about me.\n\nAnyway, I'm going to bring the oxygen tanks into the cockpit now.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Of course I care about you.\n\nI wasn't being serious.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 13,
+          "rbText": "Yes,\ndo that.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am connecting the oxygen tanks to the shuttle's life support system.\n\nThe connectors are incompatible, I need to jury-rig them.\n\nBut that shouldn't take long.\n\n",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 14,
+          "lbText": "Understood.\nIn the meantime I'll let C.U.R.E. calculate a course back to the station.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Immediately set course for the station as soon as you're done.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "But we still need those samples.\nIt doesn't make any sense to turn back now that we're almost there.\nI'm already on the other side of the trench, from here it's only a couple hundred meters to the excavation.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "No,\nyou'll come back immediately.\nThe samples are not worth risking your life over.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Yes,\nthat's a good point.\nMaybe you should try even if it's quite risky.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I already knew that it might get dangerous when I volunteered for this mission.\n\nI'm setting course for the dig site.\n\nSee you later.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "No,\ndon't do that.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Okay,\ngood luck!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nDr. Muller has closed the connection.\n\nShe is on her way to the excavation site.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "That's what I thought. Keep an eye on her position.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "Thank you for stating the obvious. Do you have anything useful to contribute?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I have also been able to collect some data on the current that the shuttle was caught in.\n\nIt does not seem to be of natural origin.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 18,
+          "lbText": "Not natural?\nWhat could've caused it then?\nThere's nobody out here.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 18,
+          "rbText": "How can that be?\nYour data must be unreliable.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I am currently unable to precisely locate the source.\n\nMy scans were also unable to detect anything suspicious in the vicinity of the trench.\n\nShall I evaluate more data to try and identify the source of the anomaly?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 19,
+          "lbText": "Yes, do that.\n\nFind out where the anomaly might have originated.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 20,
+          "rbText": "No,\nfocus on the shuttle.\nWe need to watch over Robin.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Affirmative, Commander.\n\nI will analyse more data and try to locate the source of the anomaly.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 21,
+          "lbText": "Understood.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 21,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Affirmative, Commander.\n\nI will oversee Dr. Muller and the surroundings of the shuttle.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 21,
+          "lbText": "Understood.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId":21,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI've arrived at the dig site earlier than expected, and will now try to mine new rock samples.\n\nAs soon as I have them I will immediately make my way back to the station.\n\nPromise.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 22,
+          "lbText": "Robin,\nC.U.R.E. has analysed the current and discovered that it was not of natural origin.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 22,
+          "rbText": "Robin,\nsomebody caused the current on purpose to stop you.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Does that mean I was attacked?\n\nThe last time we've had problems out here I wasn't almost pulled into an infinite abyss.\n\nThings escalated pretty quickly this time.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 23,
+          "lbText": "Maybe C.U.R.E. is mistaken and the current was natural after all.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 23,
+          "rbText": "I can't imagine why anyone would want to seriously endanger you.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I think we both know that there have been strange happenings here since we arrived at the station.\nAnd I'm not talking about Professor Orlow.\n\nThere is something in the water, and it doesn't want us to have these samples.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 24,
+          "lbText": "Yes, that's what I'm worried about too.\n\nHow far are you with the samples?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 24,
+          "rbText": "Well, that all sounds very mysterious.\n\nAre you finally done with the samples?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Almost got it.\nBut you need to see this:\nI'm back at the rock where we took the first samples.\nIt looks... different.\nIt almost seems like the surface is transparent. I can see a faint shimmer below.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 25,
+          "lbText": "That sounds eerie.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 25,
+          "rbText": "That sounds impressive.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Strange...\n\nIt wasn't there the last time...\nAnyway.\nI will now put the shuttle's drill to the surface.\n...\nI'm through the uppermost layer, now drilling deeper.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 26,
+          "lbText": "Please be careful!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 26,
+          "rbText": "Get a move on!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Wow, it's...\n\nbeautiful.\n\nEverywhere around me there's small glistening stars in the water. It almost looks like the night sky, but deep underwater.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 27,
+          "lbText": "That sounds incredible.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 27,
+          "rbText": "You should get away from there.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Yes.\nI'm now collecting the samples with the shuttle's grippers.\n...\n...\nAlmost done.\nThere we are.\nI have the new samples!\n\nNow back to the station?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 28,
+          "lbText": "Yes, plot a direct course back to the station.\nAnd no detours.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 29,
+          "rbText": "Not yet,\ntake a look around.\nMaybe you'll discover something interesting.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Already on my way.\n\nI'll contact you again as soon as I'm back on the station.\n\nIf I don't run out of oxygen first, fingers crossed!\n\nOh well, here goes nothing.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 30,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 30,
+          "rbText": "Wait!\nIf you run out of oxygen?\nRobin!?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I don't know.\n\nMaybe I should turn back.\nMy oxygen reserves have to last me for the whole return trip. I'd rather set course for the station now and get back to you as soon as I've arrived.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 30,
+          "lbText": "Fine.\nSee you later then.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 30,
+          "rbText": "Oh come on!\nThis is a unique opportunity for us.\nWe need to conduct more research.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nDr. Muller has closed the channel.\n\nMy calculations indicate that she should barely make it to the station with her current oxygen reserves.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 31,
+          "lbText": "Thank you, C.U.R.E.\nContact me as soon as she's boarded the station.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 32,
+          "rbText": "Thank you, C.U.R.E.\nHave you been able to collect more data about this anomaly by now?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I will do that, Commander.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 33,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 33,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Unfortunately not, Commander.\n\nI currently possess no new information about the rogue current or its origin.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 33,
+          "lbText": "Okay,\nget back to me as soon as you know more.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 31,
+          "rbText": "Then try harder. I want to know who or what we're dealing with out there.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nDr. Muller has not yet arrived at the station.\n\nI will contact you as soon as her shuttle has docked at the station.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "chapterId": 13,
+  "text": "KAPITEL 13\n\nIN DER FALLE",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nbitte kommen.\n\nIch bin auf dem Weg in den Lagerraum.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Robin,\ndu solltest dich\ndoch verstecken!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Ganz schlechtes Timing, Robin.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich bin hier nicht mehr alleine, hörst du?\n\nAlso, wenn es dir nicht allzu viele Umstände macht, würde ich es wirklich sehr zu schätzen wissen, wenn du mir helfen würdest am Leben zu bleiben.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Ganz ruhig.\nWarum hast du dich nicht versteckt?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Entschuldige.\nMusstest du dein Versteck verlassen?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Die Söldner durchkämmen die gesamte Station.\n\nIch musste meinen Standort wechseln, sonst hätten sie mich aufgespürt.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "C.U.R.E.\nwollte sich dich doch darum kümmern.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "So ein Mist.\nUnd wo sind eigentlich die Proben, Robin?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich habe sie an einem sicheren Ort versteckt.\n\nAber ich werde dir nicht sagen wo.\n\nC.U.R.E. könnte die Kommunikation wieder abhören und ich vertraue ihm einfach nicht. ",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Das verstehe ich.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "C.U.R.E.\nist dein einziger Weg hier raus.\nDu musst ihm vertrauen.",
+          "color": 16777215
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "C.U.R.E. hat sich bis jetzt nicht gerührt.\n\nIch kann mir auch nicht vorstellen was er gegen die Söldner aussetzen könnte.\nDie scheinen hochgradig ausgebildet zu sein und sind perfekt koordiniert.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "C.U.R.E. wird dich nicht im Stich lassen.\nVertraue mir einfach.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Dann sind wir auf uns alleine gestellt.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Oh je, da kommt jemand.\n\nEs sind zwei.\n…\n...\nSie laufen den Gang entlang und kommen direkt auf mich zu.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Schnell, versteck dich irgendwo.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Schnell, renn weg.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "...\n...\n...\n...\nIch glaube sie haben mich nicht gesehen.\n\nDas war knapp.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "Gut gemacht.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Konzentriere dich.\nSie dürfen dich nicht finden.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich muss jetzt weiter.\n\nWelchen Weg soll ich zum Lagerraum nehmen?\n\nLinks am Shuttledock vorbei oder besser rechts durch den Gemeinschaftsraum?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Geh links am Shuttledock vorbei.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Geh rechts durch den Gemeinschaftraum.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Alles klar.\nIch bin jetzt beim Shuttledock.\n\nDort steht der Transporter und zwei Wachen.\n\nIch glaube die sehen mich, wenn ich mich ducke und leise vorbeigehe.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Duck dich und schleiche dich langsam vorbei. ",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Warte auf den richtigen Moment und dann renn vorbei.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Alles klar.\n\nIch bin jetzt beim Gemeinschaftsraum.\n\nIch sehe dort zwei Wachen. Sie patrouillieren durch den Raum.\n\nIch glaube die sehen mich, wenn ich mich ducke und leise vorbeigehe.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Duck dich und schleiche dich langsam vorbei.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Warte auf den richtigen Moment und dann renn vorbei.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich versuche es.\n…\n…\n…\nOh, nein!\n\nIch glaube sie haben mich gehört.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Schnell, weiter zum Lagerraum",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Bleib stehen und ergib dich.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Was?\n\nAuf gar keinen Fall!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Dann schnell\nweiter!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "War nur ein\nVorschlag.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "…\n…\n…\nIch habe es in den Lagerraum geschafft und die Türe hinter mir verschlossen.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Überbrücke die Türsteuerung, damit sie nicht reinkommen können.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Schieb etwas davor, damit die Tür sich nicht mehr öffnen lässt.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Gute Idee!\nIch habe die Türsteuerung lahmgelegt.\n\nDas sollte sie erstmal aufhalten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Gut gemacht.\n\nUnd jetzt such nach einem Ausweg.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Gut gemacht.\nUnd jetzt versteck dich.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ähm...\nDas sind Schiebetüren!\nDie verschwinden seitlich in den Wänden.\n\nNeben der Tür steht aber ein großes Regal.\nDas kann ich umwerfen, damit es den Durchgang blockiert.\n\nDas sollte sie erstmal aufhalten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Gut gemacht.\nUnd jetzt such nach einem Ausweg.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Gut gemacht.\nUnd jetzt versteck dich.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich bin mir nicht sicher, aber ich glaube es gibt keinen anderen Weg aus dem Lagerraum.\n\nIch gewinne hier wahrscheinlich nur etwas mehr Zeit, bevor sie mich haben..",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "So ein Mist!\nHoffentlich kann dir C.U.R.E. da raushelfen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Nicht aufgeben.\nSieh dich um.\nEs muss einen Weg geben.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich schau mich mal um.\n…\n…\nHier ist einfach nichts, was mir helfen könnte..\n\nNur Ersatzteile, Kisten mit Lebensmitteln und irgendwelcher Bürokram.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 18,
+          "lbText": "Dann such dir ein gutes Versteck.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "Gibt es keinen Lüftungsschacht durch den du entkommen kannst?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Einen Lüftungsschacht?\n\nDas hier ist doch kein Actionfilm, in dem sich die Heldin durch Lüftungsschächte schleicht und die bösen Jungs einen nach dem anderen ausschaltet.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 18,
+          "lbText": "Naja,\nwäre doch cool gewesen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 18,
+          "rbText": "Ich versuche nur zu helfen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich sehe ein paar größere Kisten.\n\nVielleicht kann ich mich in einer verstecken.\n\nDiese Söldner sind bestimmt nicht die schlausten und mit etwas Glück übersehen sie mich.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 19,
+          "lbText": "Ja, mach das.\nSteig in eine Kiste.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 19,
+          "rbText": "Ich glaube die haben Thermalsichtgeräte. Da werden sie dich sofort finden.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Keine Zeit mehr.\n\nSie haben sich Zugang zum Lagerraum verschafft.\n\nIch versteck mich jetzt in einer dieser Kisten...",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 20,
+          "lbText": "Viel Glück.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 20,
+          "rbText": "Wo ist nur C.U.R.E. wenn man ihn braucht?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich registriere mehrere feindliche Einheiten, welche die Station nach Dr. Muller durchsuchen.\n\nDabei zeigen meine Sensoren, dass sich Dr. Muller im Lagerraum versteckt hat.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 21,
+          "lbText": "Ich dachte, du wolltest dich um das Problem kümmern?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 21,
+          "rbText": "Du musst Robin helfen.\nMach endlich irgendwas!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich habe bereits einen Plan zur Eliminierung der Bedrohung kalkuliert.\n\nEs ist jedoch notwendig, dass die Eindringlinge Dr. Muller finden und zum Shuttledock bringen. ",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 22,
+          "lbText": "Was?!\nWieso das denn?\nIch wusste es!\nDu wirst uns verraten.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 22,
+          "rbText": "Deswegen hast du noch nicht eingegriffen.\nDu wolltest, das Robin gefasst wird.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich musste erst mehrere  Wahrscheinlichkeitsberechnungen durchführen, um herauszufinden welcher Plan die höchste Erfolgschance hat.\n\nIch habe meine Berechnungen nun abgeschlossen und wir können fortfahren. ",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 23,
+          "lbText": "Schlaues Kerlchen!\nAlso muss ich dir einfach vertrauen?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 23,
+          "rbText": "Hoffentlich berücksichtigt dein Plan, dass Robin das Ganze überleben muss.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Vertrauen Sie mir einfach,\nCommander.\n\nIch bin eine hochentwickelte künstliche Intelligenz.\n\nIch weiß, was ich tue.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 24,
+          "lbText": "Na gut,ich vertraue dir.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 24,
+          "rbText": "Ich vertrauen dir auf keinen Fall!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich kann die Söldner hören.\nSie durchsuchen jetzt den Lagerraum.\n\nIch befürchte das war es jetzt.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 25,
+          "lbText": "Robin!\nC.U.R.E. hat einen Plan.\nVertraue ihm.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 25,
+          "rbText": "Robin.\nIch weiß was C.U.R.E. geplant hat.\nVertraue mir.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Sie kommen immer näher.\n…\n…\n…\nOh nein!\n…\nSie haben mich.\n…\nNein, loslassen.\nHilfe!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 26,
+          "lbText": "Robin!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 26,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***Bitte warten***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+ {
+  "chapterId": 12,
+  "text": "KAPITEL 12\n\nDER PLAN",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich bin es wieder.\n\nMir läuft hier die Zeit davon.\n\nWas sollen wir tun?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 1,
+          "lbText": "Hör zu,\nich habe mir einen Plan überlegt, wie du dort lebend rauskommst.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Mir ist nichts vernünftiges eingefallen.\nWir müssen wohl improvisieren.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }, {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Dr. Muller,\nSie bereiten sich sicherlich für den Aufstieg zur Oberfläche vor.\nDer Transporter wartet dort bereits auf Sie.",
+          "color": 6860244
+        },{
+          "text": "Ähm, ja. Natürlich, C.U.R.E.\nEs gibt da nur noch eine Sache, um die wir uns kümmern müssen.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "C.U.R.E.\nwir haben ein Problem.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Ach ja,\nwas ist denn los, Robin?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Du weißt schon, Commander.\n\nDiese eine Sache, wegen der ich nicht zur Oberfläche, bzw. zum Transporter gehen sollte.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Ach ja, genau.\nDiese Sache!\n\nJa, das ist leider ein Problem.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Hm, tut mir leid.\nKeine Ahnung wovon du sprichst.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich spreche von diesem großen Problem, über das wir uns Gedanken machen wollten...\n\nHast du das etwa schon wieder vergessen?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Sag das doch gleich, Robin.\n\nC.U.R.E. es gibt da ein Problem.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Nein, da klingelt nichts bei mir.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Von was für einem Problem sprechen Sie?\n\nMeine Sensoren zeigen keine außergewöhnlichen Vorfälle an.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "An Bord des Transporters befinden sich Söldner. Sie wollen die Proben an sich nehmen und Robin eliminieren.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "[lügen]\nWir haben Grund zur Annahme, dass die Besatzung des Transporters die Proben vernichten will.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ja, das ist wahr.\n\nDu musst uns da raus helfen, C.U.R.E.\n\nWir müssen sie irgendwie aufhalten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "C.U.R.E.,\n\nschick den Transporter wieder weg.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "C.U.R.E., sag dem Transporter, dass es ein Problem gibt. Sie sollen hier runter kommen und die Proben selbst abholen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich habe keine Aufzeichnungen darüber, dass der Transporter eine Bedrohung darstellen könnte, oder dass jemand an Bord die Mission zu sabotieren wollte.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "Wenn es nur die geringste Chance gibt, dass wir die Wahrheit sagen, könnte unsere Mission scheitern. Kalkuliere das mal durch.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Es besteht aber sicherlich die Möglichkeit, dass du deine Mission nicht erfolgreich zu Ende bringen kannst.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Das klingt...\n\nplausibel, Commander.\n\nIch kalkuliere mögliche Szenarien.\n\nBitte warten...\n\nBitte warten...",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Mach das.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Ok, wir warten.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nich bin bereits zu einem Ergebnis gekommen.\n\nMeinen Berechnungen zufolge besteht eine 7,3 prozentige Chance, dass Sie die Wahrheit sagen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "Natürlich sage ich die Wahrheit.\n\nIch lüge doch nie!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "7,3 Prozent.\n\nDas müsste reichen, um entsprechende  Maßnahmen einzuleiten.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        },{
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich werde das Shuttle kontaktieren und die Besatzung veranlassen hier runter auf die Station zu kommen.\n\nSobald sie hier eingetroffen sind, werde ich mich um das Problem kümmern.\n\nAuf wiedersehen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Gute Idee C.U.R.E.\n\nZeigen wir denen wer hier das Sagen hat!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Ok, aber bitte verletze niemanden.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nhältst du das für eine gute Idee?\n\nC.U.R.E. könnte hier einiges an Schaden anrichten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Ich weiß nicht.\n\nAber mir ist nichts besseres eingefallen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Es ist unsere einzige Chance dich hier lebend rauszubekommen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Was soll ich jetzt tun, bis das \nKiller-Kommando hier eintrifft?\n\nEinfach abwarten und hoffen, dass unser Supercomputer die Lage richtet?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Versteck dich in deinem Quartier und warte bis sich C.U.R.E. um die Söldner gekümmert hat.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "Versteck dich im Labor.\nDort gibt es mehrere Ausgänge und Fluchtmöglichkeiten.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ok, das mache ich.\n\nBis später.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 13,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nbitte haben Sie etwas Geduld.\n\nIch werde mich der Sache annehmen.\n\nVertrauen Sie mir.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

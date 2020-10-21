@@ -1,0 +1,40 @@
+{
+  "lang":"en",
+  "continueStr": "Continue",
+  "about":"About Us",
+  "new_game":"New Game",
+  "exit":"Exit",
+  "dialog_msg":"Start new game? Game progress will be overwritten.",
+  "yesStr":"Yes",
+  "noStr":"No",
+
+  "profile_heading":"Tap on the profiles for more information.",
+  "profile_next":"To the communicator",
+  "profile_close":"Close profile",
+
+  "scanner_heading":"Now activate the\ncommunicator.\nThe crew can then connect to you.",
+  "scan_text":"Please scan your thumbprint",
+
+  "notification_message":"Communicator back online. You can continue now.",
+
+  "iap_message":"Thank you for playing the free chapters of DEEP 6.\n\nIf you liked the adventure so far, you can unlock the full version with all 14 chapters.",
+  "iap_btn_cancel":"No Thanks",
+  "iap_btn_buy":"Unlock Full Version",
+
+  "rate_us": "Rate Us",
+
+  "chapter_1":"CHAPTER 1\n\nDR. ROBIN MULLER",
+  "chapter_2":"CHAPTER 2\n\nTHE PROFESSOR",
+  "chapter_3":"CHAPTER 3\n\nTHE MISSION BRIEFING",
+  "chapter_4":"CHAPTER 4\n\nTHE EXPEDITION",
+  "chapter_5":"CHAPTER 5\n\nTHE TRENCH",
+  "chapter_6":"CHAPTER 6\n\nSTARS IN THE ABYSS",
+  "chapter_7":"CHAPTER 7\n\nBETRAYAL",
+  "chapter_8":"CHAPTER 8\n\nESCALATION",
+  "chapter_9":"CHAPTER 9\n\nMUTINY",
+  "chapter_10":"CHAPTER 10\n\nCALCULATIONS",
+  "chapter_11":"CHAPTER 11\n\nTRUTH",
+  "chapter_12":"CHAPTER 12\n\nTHE PLAN",
+  "chapter_13":"CHAPTER 13\n\nIN THE TRAP",
+  "chapter_14":"CHAPTER 14\n\nLEGACY"
+}

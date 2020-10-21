@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "865138762551",
+    "firebase_url": "https://deep-6.firebaseio.com",
+    "project_id": "deep-6",
+    "storage_bucket": "deep-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865138762551:android:7d00c2fcf8e34393",
+        "android_client_info": {
+          "package_name": "de.atropos.deep6.b2p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865138762551-12gr9dnojckf13jb9uqei9pejaeluijt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.atropos.deep6.b2p",
+            "certificate_hash": "4e8f7e2964071236e1f6fb5e6a41d9cf56a2061d"
+          }
+        },
+        {
+          "client_id": "865138762551-3rsgo2fg83cqlj26vrpr7elnh0siu7i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTCXH8Hp4PMk_fN_zdw4Q3EzVqmlLhgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865138762551-3rsgo2fg83cqlj26vrpr7elnh0siu7i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865138762551-0gir4gqil9mi3gs7i925er217avgh3mg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.atropos.deep6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865138762551:android:176492ae237cc7ff",
+        "android_client_info": {
+          "package_name": "de.atropos.deep6.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865138762551-3rsgo2fg83cqlj26vrpr7elnh0siu7i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTCXH8Hp4PMk_fN_zdw4Q3EzVqmlLhgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865138762551-3rsgo2fg83cqlj26vrpr7elnh0siu7i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865138762551-0gir4gqil9mi3gs7i925er217avgh3mg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.atropos.deep6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

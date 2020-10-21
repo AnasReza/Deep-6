@@ -1,0 +1,4 @@
+flutter build apk
+zipalign -v -p 4 app-release.apk app-release-aligned.apk
+apksigner sign --ks deep6.jks app-release-aligned.apk
+apksigner verify app-release-aligned.apk

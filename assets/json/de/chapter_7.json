@@ -1,0 +1,538 @@
+ {
+  "chapterId": 7,
+  "text": "KAPITEL 7\n\nVERRAT",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nhier spricht Professor Orlow.\n\nBitte kommen.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Professor?\nWarum kontaktieren Sie mich direkt?\nIst C.U.R.E. offline?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "[Nicht antworten]",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nkönnen Sie mich hören.\n\nIch muss dringend mit Ihnen sprechen.\n\nCommander?",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Professor.\nWas ist denn los?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Es passt gerade gar nicht.\nKontaktieren Sie mich später über C.U.R.E.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Das geht nicht, Commander.\n\nC.U.R.E. arbeitet in dieser Angelegenheit wahrscheinlich gegen mich.\n\nSie müssen mir vertrauen, es ist dringend.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Ich weiß nicht,\nProfessor.\nDas klingt nicht gut.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Ok, Professor.\nSprechen Sie.\nWas ist los?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nhat Dr. Muller die Proben bereits abgebaut?\n\nIst sie auf dem Rückweg zur Station?",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Ja, Professor.\nSie ist auf Weg und sollte jeden Moment auf der Station eintreffen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Wieso fragen Sie?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Sie darf die Station auf gar keinen Fall betreten.\n\nDiese Proben dürfen nicht an Bord gelangen!\n\nWir müssen das verhindern.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "Dann haben tatsächlich Sie die ersten Proben verschwinden lassen!\nAber wieso?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Was stimmt nicht mit den Proben?\nSind sie gefährlich?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Keine Zeit für Erklärungen.\n\nWenn sich die Proben wieder an Bord der Station befinden, bin ich nicht sicher, ob ich uns weiterhin  beschützen kann.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Beschützen?\nVor wem beschützen?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Sind Sie jetzt komplett wahnsinnig geworden, Professor?\nWas reden Sie da bloß?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Orlow"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Sie sind da draußen, Commander.\nÜberall da draußen.\n\nEs steht uns nicht zu ihnen etwas wegzunehmen.\n\nVerstehen Sie denn nicht?\nDiese Proben sind nicht einfach nur Gesteinsproben...\n\nSie sind so viel mehr...",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "Was meinen Sie damit?\n\nProfessor?\n\nProfessor!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Erzählen Sie doch keine Märchen.\n\nHallo?\n\nProfessor?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nich bin jetzt vor der Station und bekomme keine Verbindung zu C.U.R.E. oder zu dem Professor.\n\nJemand muss die Tore zum Shuttledock öffnen. Sonst komme ich nicht rein.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Robin,\nich glaube der Professor hat C.U.R.E. deaktiviert und will verhindern, dass du die Station betritts.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Robin,\nder Professor ist wahnsinnig geworden. Er sagt, die Proben seien gefährlich.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich wusste es!\n\nWas sollen wir jetzt tun?\n\nKannst du C.U.R.E. über den Kommunikator erreichen und wieder aktivieren?\n\nWenn er offline war, musst du ihn neu booten.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Ich kann es versuchen.\n\n[Sende Aktivierungscode]\n\"Alpha 8\"",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Ich kann es versuchen.\n\n[Sende Aktivierungscode]\n\"Gamma 3\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "…\n…\n8f$%&/$G $%/()$ §$%\n...\n/&5/&%/6/t(/Z/(78#*`?\n\nRoot~Boot~Failure\n(UH((W=?(³²)-#*)\n\nShutting down",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Das war wohl der der falsche Aktivierungscode.\n\n[Sende Aktivierungscode]\n\"Alpha 8\"",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Ich muss mir das irgendwo mal aufschreiben.\n\n[Sende Aktivierungscode]\n\"Alpha 8\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "…\n…\n8f$%& $G $%/()$ §$%\n...\nBootsequenz eingeleitet\n…\nLade Root$/CURE-Initiative\n…\n…\nInitialisiere Entitätssysteme",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "C.U.R.E.\nbist du online?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Na also.\nGeht doch.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "…\n…\nGuten Tag Commander.\n…\nBitte haben Sie einen Moment Geduld.\n...",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "C.U.R.E.\nProfessor Orlow verhindert, dass das Shuttle andocken kann.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "C.U.R.E.\nna endlich.\nSchön, dass du wieder da bist.\nEs gibt Probleme mit dem Professor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich weiß Commander.\n\nIch werte in dieser Sekunde meinen Überwachungsspeicher aus.\n...\nSie müssen mein Eskalationsprotokoll aktivieren und die Steuerungskontrollen der Station auf mich übertragen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Aber dann hast du die Kontrolle über alles. Inklusive der Sicherheitssysteme und der Lebenserhaltungssysteme",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 13,
+          "rbText": "Das werde ich nicht tun! Sag mir einfach was ich machen muss, um das Shuttledock für Robin zu öffnen. ",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Die Analyse und Auswertung der Situation lässt keine andere Entscheidung zu.\n\nNur so kann ich Dr. Muller mit dem Shuttle in die Station holen und gleichzeitig Professor Orlow daran hindern weiteren Schaden anzurichten.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "Also gut.\nIch bin einverstanden.\n\nIch aktiviere das Eskalationsprotokoll Freigabecode:\n\"Beta 0\"",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Nein, es muss auch anders gehen.\nIch überlasse die Station und die Crew nicht einer unausgereiften Maschine!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, nur ich kann den Professor aufhalten.\n\nAußerdem melden meine Sensoren, dass Dr. Muller gerade der Sauerstoff im Shuttle ausgegangen ist.\nWenn sie nicht sofort andockt, wird sie ersticken und die Proben sind erneut verloren.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Wir müssen uns was anderes einfallen lassen.\nIch kann und will dir nicht die Kontrolle überlassen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Verdammt!\nWir müssen Robin retten.\nOk, ich aktiviere das Eskalationsprotokoll.\nFreigabecode:\n\"Beta 0\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nmeine oberste Direktive ist es den Erfolg der Mission sicherzustellen.\nAktivieren Sie das Eskalationsprotokoll und ich werden sicherstellen, dass Dr. Muller zusammen mit den Proben sicher auf der Station ankommt.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "Wenn du mich reinlegst reiße ich dir alle Schaltkreis einzeln raus. Aktiviere das Eskalationsprotokoll Freigabecode:\n\"Beta 0\"",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Ok,\naber rette Robin bevor du dich um den Professor kümmerst.\nAktiviere Eskalationsprotokoll Freigabecode:\n\"Beta 0\"",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Danke, Commander.\n\nIch melde mich dann später wieder.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "C.U.R.E.\nMoment mal!\n\nC.U.R.E.?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color":6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Aktivierung des Eskalationsprotokolls ist im Gange.\n\nBitte warten...\n\nBitte warten...",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

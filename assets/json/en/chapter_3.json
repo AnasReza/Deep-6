@@ -1,0 +1,564 @@
+{
+  "chapterId": 3,
+  "text": "CHAPTER 3\n\nTHE MISSION BRIEFING",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nthe crew is ready for the mission briefing.\n\nShall I open a channel and establish a connection?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Yes,\nopen a channel",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Not yet,\nI will take care of the briefing later.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI don't have to remind you that time is of the essence.\n\nThe mission does not allow for further delays.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Yes, I understand that.\nI guess we'll do the briefing right now.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "You're putting quite a bit of pressure on me here.\nBut if it needs to be now...",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nProfessor Jurij Orlow speaking.\nWe are ready for our mission briefing.",
+          "color": 11681540
+        },
+        {
+          "text": "Hello Commander,\nRobin here. I've already begun to prepare everything for a second expedition.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Hello Professor.\nPlease begin.\nWhat should we look out for on this mission?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Hello Robin.\nSounds very good.\nHow should the mission proceed?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I would like to emphasize again that I don't have a good feeling about another expedition.\n\nI believe it to carry incalculable risks. You're putting us in unnecessary danger!",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Your concerns are justified.\nBut we have to do it.\nWithout the samples we don't have enough data do successfully complete the mission.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Objection noted, Professor.\nRobin, what is your opinion?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Okay, this is the situation:\nThe diving shuttle is ready to go.\nFuel tanks are at full capacity and all systems have been personally inspected by me. We should have no trouble finding new samples at the dig site with our navigational data.\n",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "Sounds like a good plan.\nEverything should run smoothly.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Professor,\ndo you have anything to add?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander, the mission will only go as planned if we follow the predetermined route precisely and...",
+          "color": 11681540
+        },
+        {
+          "text": "Well, that much is obvious.\nNow don't be so overcautious, Professor!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Robin, let him finish.\n\nCarry on, Professor.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Professor,\nRobin carefully planned the mission.\nDon't be so pessimistic.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Every deviation from our plan could endanger the mission and our lives.\nOn our last expedition we almost lost the diving shuttle.",
+          "color": 11681540
+        },
+        {
+          "text": "It wasn't my fault that the main rudder malfunctioned!\nAnd we still don't know exactly what the cause was.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 10,
+          "lbText": "Robin,\nyou will give the shuttle another thorough check-up before the mission.\nThere can be no further incidents.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Don't worry Professor.\nThere won't be any problems this time.\nIt's gonna be fine.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I thoroughly disagree with that.\nBut you are the Commander...",
+          "color": 11681540
+        },
+        {
+          "text": "Exactly, Professor.\nHE is the Commander and HE gives the orders!",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "That's what I wanted to hear, Robin.\nNow let's go!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "No more discussions, Professor.\nGet to work!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Understood, Commander.\n\nThe only thing that remains, is deciding on who will carry out the fieldwork this time.\nShould I pilot the shuttle again, or do you want the Professor to go on the mission this time?\n\nYour decision.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Robin, \nyou'll take the shuttle to the excavation site.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Professor Orlow,\nyou will go to the excavation site with the shuttle.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Oh, no no no.\nYou can't expect that of me.\nI am not trained for that.",
+          "color": 11681540
+        },
+        {
+          "text": "Then allow me to go.\nI carried out the first mission and know my way around the terrain out there.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Alright, Robin.\nYou've convinced me.\nYou can carry out the mission.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Professor,\nthat borders on insubordination!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Court-martial me for all I care, or report me to mission control.\n\nI'm not going out there.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "This will have consequences, Professor.\n\nRobin, you will have to take over.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Okay okay,\nno one is getting court-martialed here.\nRobin, you'll carry out the mission.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Prof. Orlow"
+        },
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Affirmative.\nThen I'll get myself ready and contact you as soon as I'm on my way to the diving shuttle.\n\nOver and Out.",
+          "color": 16711910
+        },
+        {
+          "text": "Over and Out, Commander.",
+          "color": 11681540
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "See you later,\nRobin.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "Okay, but hurry up.\nWe've already lost too much time with discussions.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nI have followed and evaluated the mission briefing.\n\nYour decisions were...\n…\n...\ninteresting.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Oh really?\nThanks...\nI guess?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "If I wanted to know your opinion, I'd have asked you!",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "No need to thank me, Commander.\nI am only an intelligent machine.\nMy programming requires an evaluation of the situation and all involved parties.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Yes, I know.\nJust let me know as soon as Dr. Muller is ready to begin the expedition.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Whatever.\nJust give me some space. I need to think about a few things.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "My apologies, Commander.\n\nI did not mean to...\n...\n...\nhurt your feelings.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Uhm, what?\n\nJust let me know as soon as Dr. Muller is ready to begin the expedition.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 15,
+          "rbText": "Don't worry.\nI'm fine.\n\nJust give me some space. I need to think about a few things.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "I will do that, Commander.\n\nUntil later.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 16,
+          "lbText": "Over and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nDr. Muller is still busy with preparations and has not yet arrived at the shuttle dock.\n\nI will contact you, as soon as she is ready.\n",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[wait]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

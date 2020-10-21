@@ -1,0 +1,566 @@
+{
+  "chapterId": 1,
+  "text": "KAPITEL 1\n\nDR. ROBIN MULLER",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich empfange eine eingehende Kommunikation von Deep 6.\nDr. Muller möchte mit Ihnen sprechen.\n\nIch stelle Sie direkt auf Ihren Kommunikator durch, wenn Sie einverstanden sind?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Ok danke.\nStell der Verbindung her.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "Jetzt nicht.\nIch habe noch was zu erledigen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nDr. Muller klang nervös und aufgeregt.\nEs wäre sehr empfehlenswert, wenn Sie jetzt mit ihr sprechen würden.\n\nIch stelle die Kommunikation durch.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Na, gut.\nDann los.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 2,
+          "rbText": "Ich habe doch gesagt, dass ich gerade keine Zei...",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nhier spricht Robin.\n\nKannst du mich hören?\n\nIch warte schon seit einiger Zeit.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Ja,\nich bin hier.\nRobin",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Nur mit der Ruhe,\njetzt bin ich ja da.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Na, endlich erreiche ich dich!\nSchön, dass du wieder da bist.\n\nIch hoffe dein Urlaub war erholsam! Die letzten Wochen ohne dich waren nicht gerade einfach.\n\nHier sind einige sehr merkwürdige Dinge passiert...",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "Was war\ndenn los?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Du arbeitest jetzt\nauf Deep 6, da ist\ndas doch Alltag.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich weiß gar nicht wo ich anfangen soll....\n\nAber eine Sache muss ich dir sofort erzählen.\n\nProfessor Orlow verhält sich seit einiger Zeit sehr merkwürdig....",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "Was meinst\ndu damit?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Hmm, das kann ich mir nicht vorstellen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Erinnerst du dich noch an den Außeneinsatz, den wir zuletzt durchgeführt haben?\n\nWir haben damals Proben gesammelt und diese zurück zur Station gebracht.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "Ja, ich\nerinnere mich. ",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Nein, das habe\nich vergessen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Wie kannst du das vergessen?\n\nWir haben dazu auch einen Bericht geschrieben und an die Missionskontrolle geschickt.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "[lügen]\nAh, ja klar.\nDieser Bericht...\nJetzt erinnere ich mich.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "Der muss wohl in\ndem Stapel auf meinem\nSchreibtisch untergegangen\nsein.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich bin mir absolut sicher, dass ich diese Proben nach unseren Untersuchungen im Labor archiviert habe.\nAber als ich vor ein paar Tagen weitere Tests durchführen wollte, waren sie verschwunden. Und da außer mir und Professor Orlow niemand an Bord dieser Station ist, muss er sie genommen haben.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 8,
+          "lbText": "Hast du ihn\ndanach gefragt?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 8,
+          "rbText": "Wieso sollte der\nProfessor die Proben\nverschwinden lassen?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Er hat alles abgestritten und behauptet er wüsste von nichts.\n\nAber dann er hat er mir vorgeworfen, die Proben verloren zu haben.\nIch sei zu unerfahren und noch grün hinter den Ohren.\n\nKannst du das glauben?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 9,
+          "lbText": "Wow, das ist\nganz schön unfair\nvon ihm.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 9,
+          "rbText": "Naja,\ndu bist schon\nmanchmal ein wenig\nunorganisiert..",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ehrlich, die Ergebnisse, die wir durch diese Gesteinsproben erhalten haben, übersteigen immerhin alles, was wir uns vorstellen konnten.\nWas sollen wir nun tun?\n\nEinen zweiten Außeneinsatz planen und erneut Proben sammeln?",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "Plane noch\neinen Außeneinsatz,\nwir brauchen diese\nProben.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 10,
+          "rbText": "Ein weiterer Einsatz\nist zu riskant,\nwir müssen erst\nherausfinden, was\nda los ist.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich kann Dir sagen was da los ist: Der gute Professor hat die Proben verloren, weil er nicht mehr Jüngste ist. Wahrscheinlich hat er sie versehentlich zusammen mit dem überschüssigen Geröll entsorgt und jetzt will er es mir in die Schuhe schieben.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 11,
+          "lbText": "So oder so.\nWir müssen wohl\neinen weiteren\nAußeneinsatz\nplanen.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 11,
+          "rbText": "Ich spreche nachher\nmit dem Professor.\nAber bereite trotzdem\neinen weiteren Einsatz\nvor.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Bist du sicher?\n\nWir messen dort draußen vermehrt seltsame Aktivitäten.\nUnd die Sicht hat sich extrem verschlechtert.\n\nEs ist fast so wie eine Art Unterwassersturm.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 12,
+          "lbText": "Wie auch immer.\nBereite den\nEinsatz vor.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 12,
+          "rbText": "Das klingt nicht\ngut. Hast du mehr\nDaten, die wir\nauswerten können?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Warte mal!\n\nIch habe da was gehört.\n...\n...\n...\nHmm, für einen Moment dachte ich, dass der Professor vor meiner Tür steht und uns belauscht.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 13,
+          "lbText": "Jetzt mach ich\nmir aber ernsthaft\nSorgen! ",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 13,
+          "rbText": "Das hast du\ndir bestimmt\nnur eingebildet.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "character": [
+        {
+          "char": "Dr. Muller"
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Hm, vielleicht sollte ich mich besser auf meine Arbeit konzentrieren.\nAber seit einiger Zeit fühle ich mich  irgendwie seltsam...\n\nWie auch immer.\nIch melde mich später wieder, wenn es was Neues gibt.\n\nOver and Out.",
+          "color": 16711910
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 14,
+          "lbText": "Alles klar.\nDann bis nachher.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 14,
+          "rbText": "Mach keine\nDummheiten!\n\nOver and Out.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\nich habe ein erhöhtes Stresslevel bei Dr. Muller festgestellt.\nSollte sich ihr Zustand in den nächsten Stunden nicht bessern, empfehle ich, entsprechende Maßnahmen einzuleiten.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 15,
+          "lbText": "Ok, ich denke\ndarüber nach. ",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 16,
+          "rbText": "Auf gar keinen Fall!\nSie ist nur ein wenig\naufgeregt, weil sie\ndie Proben verloren\nhat. Das wird schon\nwieder.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Zögern Sie die Entscheidung nicht zu lange raus.\n\nZwischenfälle dieser Art gefährden den Erfolg der Mission und können nicht toleriert werden.\n\nKann ich sonst etwas für Sie tun?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "Nein, danke.\nGib mir einfach\nZeit darüber\nnachzudenken.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "Ja,\nkontaktiere Professor\nOrlow.\nIch will mit ihm\nsprechen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Meine Aufzeichnungen der letzten Stunden lassen nicht vermuten, dass Dr. Muller die Proben verloren hat.\n\nVielleicht sollten Sie mit Professor Orlow sprechen, um die Sache aufzuklären.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 17,
+          "lbText": "Blödsinn,\nich bin mir sicher,\ndass Robin die\nProben verloren hat.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 17,
+          "rbText": "Ja,\nkontaktiere Professor\nOrlow.\nIch will mit ihm\nsprechen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ok, Commander.\n\nIch melde mich dann später wieder.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 18,
+          "lbText": "Danke.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 18,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\ndie Crew ist gerade beschäftigt.\n\nIch werde Sie kontaktieren, sobald es neue Ereignisse gibt.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+  ]
+}

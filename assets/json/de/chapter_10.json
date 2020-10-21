@@ -1,0 +1,259 @@
+ {
+  "chapterId": 10,
+  "text": "KAPITEL 10\n\nKALKULATIONEN",
+  "story": [
+    {
+      "id": 0,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Hallo Commander,\n\nmeine Sensoren registrieren nur noch Dr. Muller an Bord der Station.\n\nWollen Sie mir vielleicht etwas mitteilen?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 2,
+          "lbText": "Es gab einige Probleme mit dem Professor. Ich habe mich aber darum gekümmert.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 1,
+          "rbText": "[lügen]\n\nJa,\nder Professor hatte einen Unfall.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Sie sollen mich doch nicht anlügen, Commander.\n\nIch habe bereits gesehen, dass die Luftschleuse geflutet ist, in der ich den Professor eingesperrt habe.\n\nAber danke, dass Sie sich darum gekümmert haben und Dr. Muller auf unsere Seite gezogen haben.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Wie meinst du das?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Unsere Seite?\nHältst du dich jetzt für Team C.U.R.E.?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ich weiß, Commander.\nHaben Sie schon wieder vergessen, dass ich alles auf der Station überwache?\n\nSie haben richtig gehandelt.\nGut, dass Dr. Muller bewiesen hat, dass sie voll und ganz hinter der Mission steht.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 3,
+          "lbText": "Wie meinst du das?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 3,
+          "rbText": "Bedrohst du jetzt auch noch Robin?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Es wäre sehr schade gewesen auch noch sie zu verlieren.\n\nAber, da jetzt ein Unsicherheitsfaktor eliminiert wurde, sollte sich Dr. Muller darauf vorbereiten an die Oberfläche zurückzukehren.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 4,
+          "lbText": "C.U.R.E.\nHast du gewusst, dass wir hier nicht alleine sind?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 4,
+          "rbText": "Der Professor wurde von irgendetwas manipuliert.\nEr war nicht mehr er selbst.\nWas hat das zu bedeuten?",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Tut mir leid, Commander.\nDarüber habe ich keine Informationen.\n\nBitte kontaktieren Sie Dr. Muller. Sie soll das Shuttle für den Aufstieg zur Oberfläche vorbereiten.\nOder möchten Sie, dass ich mich darum kümmere?",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 5,
+          "lbText": "Nein.\nIch mach das.\nHalt dich da raus!",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 5,
+          "rbText": "Ja.\nMach du das.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Einverstanden, Commander.\n\nIch habe bereits die Missionskontrolle kontaktiert.\nSie schicken einen Transporter, der die Proben in Empfang nehmen wird.\n\nEr landet in Kürze auf der Oberfläche des Planeten.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 6,
+          "lbText": "Und Robin wird ebenfalls mitfliegen, oder?",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 6,
+          "rbText": "Sag, der Missionskontrolle, dass sie auch Robin mitnehmen müssen.",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Ja, natürlich, Commander.\n\nSie wird heil und unversehrt zurück zur Erde gebracht.\n\nAuf Wiedersehen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": 7,
+          "lbText": "Das will ich auch hoffen.\n\nOver and Out.",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": 7,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "\n\n\n\n***offline***",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "character": [
+        {
+          "char": "C.U.R.E."
+        }
+      ],
+      "maintext": [
+        {
+          "text": "Commander,\n\nder Transporter ist unterwegs.\n\nIch melde mich bei Ihnen, wenn er bereit ist die Proben und Dr. Muller aufzunehmen.",
+          "color": 6860244
+        }
+      ],
+      "leftButton": [
+        {
+          "targetId": -1,
+          "lbText": "[warten]",
+          "color": 16777215
+        }
+      ],
+      "rightButton": [
+        {
+          "targetId": -1,
+          "rbText": "",
+          "color": 16777215
+        }
+      ]
+    }
+
+  ]
+}
